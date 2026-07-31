@@ -1,3 +1,4 @@
+#just a simple analyzer.py is jst using function
 import pandas as pd
 import json
 import os

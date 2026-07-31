@@ -10,6 +10,7 @@ class APIConfig:
 # Using positional for required arg, named for optional
 dev_config = APIConfig("sk-dev-key", max_tokens=50)
 
+#some changes
 # Using all named arguments (clearest)
 prod_config = APIConfig(api_key="sk-prod-key", model="gpt-4", max_tokens=1000)
 
