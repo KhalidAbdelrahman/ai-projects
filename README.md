@@ -98,4 +98,4 @@ If you're also learning AI engineering, feel free to connect, share ideas, or su
 
 ## 📄 License
 
-This repository is open source under the **MIT License** (you can change this later if needed).
+This repository is open source under the **MIT License** 
